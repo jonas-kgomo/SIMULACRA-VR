@@ -9,6 +9,10 @@ SVR is a great platform for musicologists, enthusiasts
 Hyperinstruments
 
 
+### "IoT" interactions
+far-range interaction via raycast direction & pinch. Static display of contextual information, sigle value drag ajustment, binary pinch-click to expand a more complex piece of UI.
+
+![IoT](http://eugene.works.s3.amazonaws.com/img/handUI/iot.png)
 
 ### MATH
 Experimentation of hybrid particles movement on GPU with 2D eulerian fluid and 3D particles simulation. The closest to the ground, the more influenced by the fluid simulation.
