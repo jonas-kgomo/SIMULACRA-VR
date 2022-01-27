@@ -5,8 +5,16 @@ Simulacra VR
 
 MUSIC INSTRUMENTS IN VR
 
-SVR is a great platform for musicologists, enthusiasts 
-Hyperinstruments
+SVR is a platform for musicologists, enthusiasts to play hyperinstruments in virtual reality.
+
+Simulacra is a tool that helps you design virtual sound worlds with abstract instruments.The infrastructure enable users without musicality develop sophisticated instruments. 
+
+
+# Hyperinstruments
+
+Simulacra is a hyperinstrument that approaches musical instruments as haptic devices.Simulacra uses machine learning techniques to create experimental instruments which gives musicians the ability to make music using completely new sounds. It helps experience a cross between music and perception.
+
+
 
 
 ### "IoT" interactions
@@ -38,7 +46,6 @@ Printed instruments can be exported for musical playing . Ray Kurtzweil has talk
 * Traditional 
 
 * Augmented Reality 
- nsynk
  
 
 
